@@ -12,10 +12,10 @@
     "UI",
     "Vue3"
   ],
-  "homepage": "https://gitee.com/ajletme/ts-lego-components",
+  "homepage": "https://github.com/Ambition-J/ts-fe-lego-components",
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/ajletme/ts-lego-components"
+    "url": "https://github.com/Ambition-J/ts-fe-lego-components"
   },
   "files": [
     "dist"
